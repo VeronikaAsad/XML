@@ -1,16 +1,16 @@
 <xml>
 <id> 1</id>
-<summary >no redirection to the CoffeeBerry Facebook account via tapping on the icon Facebook</summary >
+<summary>no redirection to the CoffeeBerry Facebook account via tapping on the icon Facebook</summary >
 <severity>minor</severity>
 <description>redirecting to the CoffeeBerry  VK  account instead of Facebook by clicking on the Facebook icon</description>
-<steps to reproduce> 
+<steps_to_reproduce> 
 open Coffee Minsk app, 
 find  CoffeeBerry  coffee shops in the catalog,
 open  CoffeeBerry  coffee shop's  info page,
 tap on Facebook icon
-</steps to reproduce>
+</steps_to_reproduce>
 <reproducibility>always</reproducibility>
-<reproduced on> all devices</reproduced on>
-<actual result>user is redirected to the VK profile of coffee shop</actual result>
-<expected result>user is redirected to the Facebook profile of coffee shop</expected result>
+<reproduced_on> all devices</reproduced_on>
+<actual_result>user is redirected to the VK profile of coffee shop</actual_result>
+<expected_result>user is redirected to the Facebook profile of coffee shop</expected_result>
 
