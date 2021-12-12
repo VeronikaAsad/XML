@@ -1,4 +1,5 @@
 <xml>
+<bugreport>
 <id> 1</id>
 <summary>no redirection to the CoffeeBerry Facebook account via tapping on the icon Facebook</summary >
 <severity>minor</severity>
@@ -13,4 +14,4 @@ tap on Facebook icon
 <reproduced_on> all devices</reproduced_on>
 <actual_result>user is redirected to the VK profile of coffee shop</actual_result>
 <expected_result>user is redirected to the Facebook profile of coffee shop</expected_result>
-
+</bugreport>
